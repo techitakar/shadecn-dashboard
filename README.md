@@ -2,7 +2,7 @@
 
 Just one of the projects of the learning phase
 
-Build: https://shadecn-dashboard-zeta.vercel.app/posts/edit/5
+Build: https://shadecn-dashboard-zeta.vercel.app/
 
 ## Topics Covered for learning
 
